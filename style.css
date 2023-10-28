@@ -1,0 +1,160 @@
+body {
+    background-color: #E9EDF0;
+    margin: 0%;
+}
+#backgroundlogo {
+    background-color: #233040; 
+}
+#amazonlogo {
+    height: 30px;
+    margin-left: 30px;
+}
+#topbar {
+    background-color: #364757;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-family: Arial;
+}
+.topspan1 {
+    padding-left: 40px;
+}
+.topspan {
+    padding-left: 20px;
+}
+#giftcard {
+    background-color: #F56600;
+    color: white;
+  margin: 30px 30px 30px 30px;
+    text-align: center;
+    font-family: Arial;
+}
+#shopall {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+#holidayimg {
+    width: 1888px;
+}
+#holiday1{
+    margin: 30px 30px;
+    background-image: url("assets/bg-image.png");
+   background-repeat: repeat repeat-y;
+    text-align: center;
+    color: white;
+    font-family: Arial;
+    height: 170px;   
+}
+#holiday2 {
+    padding-top: 80px;
+}
+#findthe {
+    font-size: 20px;
+    font-family: Arial;
+    background-color: white;
+    margin: 30px 30px;
+    margin-right: 30px;
+    padding:20px 30px;
+}
+.shopnow {
+    font-size: 15px;
+    padding-left: 20px;
+    color: #006373;
+}
+.fourmages {
+    height: 280px;   
+    width: 270px;
+    border-radius: 20px;
+}
+#divfourmages {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+#oculus {
+    margin: 30px 30px;
+}
+.oculusimage {
+    width: 1290px;
+    height: 500px;
+}
+#playthegift {
+    font-family: Arial;
+    text-align: center;
+    margin-top: -30px;
+    font-size: 20px;
+
+}
+.shopgaming {
+    padding-left: 15px;
+    font-size: 15px;
+    color: #006373;
+}
+#marshall {
+    margin: 30px 30px;
+}
+.marshall {
+    width: 1290px;
+    height: 500px;
+}
+#shopaudio {
+    font-family: Arial;
+    text-align: center;
+    margin-top: -30px;
+    font-size: 20px;
+}
+.shopaudio {
+    padding-left: 15px;
+    font-size: 15px;
+    color: #006373;
+}
+#backtotop {
+    text-align: center;
+    background-color: #364757;
+    margin-top: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    text-decoration: underline;
+    font-family: Arial;   
+}
+.backtotop {
+    color: white;
+}
+#backgroundlogofinal {
+    background-color: #233040;
+    text-align: center;
+}
+#amazonlogofinal {
+    height: 80px;
+}
+#bigdiv {
+    margin: 30px 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.extra {
+    height: 150px;
+    width: 200px;
+    padding: 15px 15px;
+}
+.sell {
+    background-color: white;
+    margin-right: 70px;
+    width: 400px;
+
+}
+.lastp {
+    color: #006373;
+    padding-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.lasth2 {
+    font-weight: bold;
+    padding-left: 20px;
+}
+.imadiv {
+    padding-left: 20px;
+}
